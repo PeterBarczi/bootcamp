@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# IT Bbootcamp
+# IT Bootcamp
 IT Bootcamp related stuff can be found here.
 =======
 # Bootcamp
